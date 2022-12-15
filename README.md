@@ -13,8 +13,8 @@ Other items are not recognizable by our model and do not have corresponding pict
 - expire_dates: the total number of days that the item would expire
 - level: the level of shelf the item is located inside the fridge
 - status: 
-    + 0: food is fresh
-    + 1: food is going bad
+    + 1: food is fresh
+    + 0: food is going bad
     + -1: food is expired
     
 
