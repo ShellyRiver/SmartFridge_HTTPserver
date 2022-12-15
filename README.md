@@ -26,4 +26,4 @@ Other items are not recognizable by our model and do not have corresponding pict
 3. If the port number is occupied, change to other port number. The port number here and the port number in the app has to be the same. 
 
 ### Example APP result:
-![2c6facfdd4adb659c819de5978e1797.jpg](attachment:2c6facfdd4adb659c819de5978e1797.jpg)
+![2c6facfdd4adb659c819de5978e1797](https://user-images.githubusercontent.com/109195884/207746378-dd05480e-1a26-4123-883f-30c6025ac50f.jpg)
